@@ -1,0 +1,11 @@
+High Level Thinking :
+
+    1: Establish Expectation
+    2: Faith
+    3: Link expectation and faith
+
+Low Level Thinking :
+
+    1. Create Stack of calls.
+            And
+    2. Add Base Case
