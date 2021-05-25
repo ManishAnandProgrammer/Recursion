@@ -21,6 +21,9 @@ public class StringSubSequence {
         List<String> finalList = new ArrayList<>();
         for(String subSequence: resultOfRecursion) {
             finalList.add(subSequence);
+        }
+
+        for(String subSequence: resultOfRecursion) {
             finalList.add(charAtZero + subSequence);
         }
 
